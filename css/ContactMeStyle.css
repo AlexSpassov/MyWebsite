@@ -6,27 +6,31 @@ header {
 	background-repeat:no-repeat;
 	margin-bottom:none;
 }
-h1 {
-	border-bottom:3px solid #000;
-}
 .scale {
 	width:100%;
 }
-/* text formatting*/
+h1 {
+	border-bottom:3px solid #000;
+}
 html{
 	line-height: 1.7;
 }
 body{
 	font-size:140%;
 	font-family: 'PTSans', Arial, sans-serif;
+}.container {
+	max-width:940px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
 }
 /* site nav */
-nav ul {
+nav ul{
 	text-align: center;
 	padding:none;
 	margin:none;
 }
-nav li {
+nav ul li {
 	list-style:none;
 	display:inline-block;
 }
