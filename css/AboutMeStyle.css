@@ -1,0 +1,44 @@
+header {
+	width:auto;
+	height:420px;
+	background-image:url(../images/bluecity.jpg);
+	background-position:center center;
+	background-repeat:no-repeat;
+	margin-bottom:none;
+}
+h1 {
+	border-bottom:3px solid #000;
+}
+/* site nav */
+nav ul {
+	text-align: center;
+	padding:none;
+	margin:none;
+}
+nav li {
+	list-style:none;
+	display:inline-block;
+}
+.site-nav {
+	margin-top:none;
+}
+.site-nav ul {
+	margin:none;
+	padding:none;
+}
+.site-nav li {
+	margin-right: 5px;
+}
+.site-nav a {
+	text-decoration: none;
+	color: #000;
+	padding: 10px 20px;
+	text-align:center;
+	border-right:3px solid #000;
+	border-left:3px solid #000;
+}
+.site-nav a:hover {
+	background-color:#e5e9dc;
+}
+
+/*end site-nav */
