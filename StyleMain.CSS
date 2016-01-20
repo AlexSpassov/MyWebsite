@@ -1,14 +1,14 @@
-.header {
+/*.header {
 	padding-top:20px;
-	background-image:url(blue_city.jpg);
+	background-image:url(../images/blue_city.jpg);
 	background-position:right center;
 	background-repeat:no-repeat;
 	
-}
+}*/
 
-/*html{
+html{
 	background-color:#869960;
 }
 .container{
 	background-color:#FFF;
-}*/
+}
