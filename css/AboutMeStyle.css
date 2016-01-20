@@ -6,6 +6,15 @@ header {
 	background-repeat:no-repeat;
 	margin-bottom:none;
 }
+.smallstyle{
+	border-bottom:3px solid #000;
+}
+.liststyle{
+	display:block;
+	margin:none;
+	padding:none;
+	float:left;
+}
 .scale {
 	width:100%;
 }
