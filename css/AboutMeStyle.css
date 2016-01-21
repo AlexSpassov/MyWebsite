@@ -6,6 +6,18 @@ header {
 	background-repeat:no-repeat;
 	margin-bottom:none;
 }
+<<<<<<< HEAD
+=======
+.smallstyle{
+	border-bottom:3px solid #000;
+}
+.liststyle{
+	display:block;
+	margin:none;
+	padding:none;
+	float:left;
+}
+>>>>>>> 056b37df1370985ecffbce6d018eedf42f7f9b2c
 .scale {
 	width:100%;
 }
